@@ -8,12 +8,15 @@ parent: Motivation
 
 ## Genderstern
 
+
+
 ### Kritik
 
 - Aussprache schwierig
-- Kann nur im Plural verwendet werden
-    - Personalpronomen im Singular können nur als Aufzählung verwendet werden
-    - Beispiel: *eine/r der Zuhörer\*innen, der/die […]*
+- Fehlende Pronomen
+    - Relativpronomen im Singular können nur als Aufzählung verwendet werden
+    - Beispiel: *ein\*e der Zuhörer\*innen, der/die …*
+- Vorleseprogramme (Screenreader) haben Schwierigkeiten
 
 <!---
 TODO
