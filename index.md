@@ -6,7 +6,7 @@ description: "Das neue geschlechterspefische Genus für die deutsche Sprache"
 permalink: /
 last_modified_date: 2020-09-06T17:54:08+0000
 ---
-# Gender-i
+![Gender-i](/assets/images/Gender-i-512.png){:.logo}
 
 ## Bildung
 

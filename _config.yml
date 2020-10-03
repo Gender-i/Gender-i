@@ -1,5 +1,6 @@
 theme: "just-the-docs"
 title: Gender-i
+logo: "/assets/images/Gender-i-128.png"
 description: Das neue geschlechterspefische Genus für die deutsche Sprache
 search_enabled: true
 footer_content: "&copy; 2020 Andreas Ganske. Dieses Werk ist lizenziert unter einer <a href=\"https://creativecommons.org/licenses/by/4.0)\">Creative Commons Namensnennung 4.0 International Lizenz</a>"

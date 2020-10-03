@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+$noto-sans: 'Noto Sans', sans-serif;
+
+.ipa {
+    font-family: $noto-sans;
+    font-size: inherit;
+}
+
+.logo {
+    width: 384px;
+}
