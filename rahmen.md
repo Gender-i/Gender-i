@@ -6,7 +6,7 @@ parent: Motivation
 ---
 # Rahmen
 
-Das Projekt Gender-i ist ein Vorstoß zur gendergerechten deutschen Sprache. Ein solches Projekt kann nur eine Richtung vorgeben und eine Vorlage sein und niemals ein abgeschlossenes, perfektes Werk sein. Sprache entwickelt sich ständig weiter und lebt von Ausnahmen. Es gibt viele Bereiche, in denen die deutsche Sprache noch gendergerechter werden kann. Doch ein solches Projekt wie das Gender-i kann unmöglich alles abdecken.
+Das Projekt Gender-i ist ein Vorstoß zur gendergerechten deutschen Sprache. Ein solches Projekt kann nur eine Richtung vorgeben und eine Vorlage sein und niemals ein abgeschlossenes, perfektes Werk sein. Sprache entwickelt sich ständig weiter und lebt von Ausnahmen. Es gibt viele Bereiche, in denen die deutsche Sprache noch gendergerechter werden kann. Das Projekt Gender-i kann unmöglich alles abdecken und jedi gerecht werden.
 
 Aus diesem Grund hat sich das Gender-i-Projekt einen strikten Rahmen gegeben. Dies ermöglicht Weiterentwicklungen über den Rahmen hinaus an anderer Stelle zu diskutieren und damit einen Stillstand zu umgehen, der durch zu viele Ideen, Strömungen, berechtigte Kritik an einzelnen sprachlichen Begebenheiten entsteht.
 

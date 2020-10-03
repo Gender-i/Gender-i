@@ -8,4 +8,6 @@ parent: Motivation
 
 ## Umlautungen
 
-Umlautungen wie „Arzt“ (maskulin) und „Ärztin“ (feminin) behalten beim Gender-I die Grundform der femininen Variante.
+Umlautungen wie „Arzt“ (maskulin) und „Ärztin“ (feminin) (*weitere Beispiele: Bauer/Bäuerin, Bischof/Bischöfin*) behalten beim Gender-i die Grundform der femininen Variante.
+
+Gender-i: *Ärzti, Bäueri, Bischöfi*

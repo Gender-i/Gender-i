@@ -22,7 +22,7 @@ parent: Motivation
 TODO
 --->
 
-Quellen: [Wikipedia](https://de.wikipedia.org/wiki/Gendersternchen)
+Quellen: [Wikipedia](https://de.wikipedia.org/wiki/Gendersternchen), [genderleicht.de](https://www.genderleicht.de/Textlabor/genderstern-im-singular/)
 
 ## Gender-x
 
