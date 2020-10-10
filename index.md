@@ -12,7 +12,7 @@ Das **Gender-i** führt ein neues Genus, also ein neues grammatikalisches „Ges
 
 Dieses neue geschlechtergerechte Genus nennt sich Utrum und wird bei Artikelwörtern und Pronomen durch die Singular-Endungen **-i** (im Nominativ und Akkusativ) und **-is** (im Genitiv und Dativ) gekennzeichnet. Das zugehörige Personalpronomen lautet **i**.
 
-[^1]: Siehe [Motivation](/motivation#warum-ein-neues-system)
+[^1]: Siehe [Motivation](motivation#warum-ein-neues-system)
 
 <details open markdown="block">
   <summary>
@@ -50,7 +50,7 @@ Die Aussprache der Endung **-is** (`[is]`{:.ipa}) erfolgt analog zur Aussprache 
 - Politiker -> Politiki (singular), Politikis (plural)
 
 Unregelmäßige Formen
-- Arzt/Ärztin -> Ärzti (singular), Ärztis (plural) ([s. Umlautungen](/motivation/spezialformen#umlautungen))
+- Arzt/Ärztin -> Ärzti (singular), Ärztis (plural) ([s. Umlautungen](motivation/spezialformen#umlautungen))
 - Präsident, Präsidenten -> Präsidenti, Präsidentis
 
 ## Artikel
