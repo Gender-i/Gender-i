@@ -55,20 +55,22 @@ Unregelmäßige Formen
 
 ## Artikel
 
-Die Artikel des Gender-i sind **eins** (`[aɪ̯ns]`) (unbestimmt) und **dis** (`[dɪs]`) (bestimmt). Im Plural bleibt das generische **die** der anderen Genera.
+Die Artikel des Gender-i sind **ei**[^2] (`[aɪ̯]`) (unbestimmt) und **dis** (`[dɪs]`) (bestimmt). Im Plural bleibt das generische **die** der anderen Genera.
+
+[^2]: Noch nicht 100%ig fest. Siehe [Alternativen](alternativen#unbestimmter-artikel)
 
 Der Artikel bleibt in allen grammatikalischen Fällen gleich. Im Nominativ und im Akkusativ werden die Endungen **-i** `[i]`{:.ipa} und im Genitiv und Dativ die Endung **-is** `[iːs]`{:.ipa}. Dies sorgt für einfache Regeln, da auch in anderen Geschlechtern Doppelbelegungen benutzt werden. Damit fallen komplizierte Regeln weg, was das Erlenen des *Gender-i* einfacher gestaltet.
 
 |               | maskulin          | feminin            | utrum           |
 |:--------------|:------------------|:-------------------|:----------------|
 | **Nominativ** | Der Schüler       | Die Schülerin      | Dis Schüli      |
-| ^^            | ^^ Ein Schüler    | ^^ Eine Schülerin  | ^^ Eins Schüli  |
+| ^^            | ^^ Ein Schüler    | ^^ Eine Schülerin  | ^^ Ei Schüli  |
 | **Genitiv**   | Des Schülers      | Der Schülerin      | Dis Schülis     |
-| ^^            | ^^ Eines Schülers | ^^ Einer Schülerin | ^^ Eins Schülis |
+| ^^            | ^^ Eines Schülers | ^^ Einer Schülerin | ^^ Ei Schülis |
 | **Dativ**     | Dem Schüler       | Der Schülerin      | Dis Schülis     |
-| ^^            | ^^ Einem Schüler  | ^^ Einer Schülerin | ^^ Eins Schülis |
+| ^^            | ^^ Einem Schüler  | ^^ Einer Schülerin | ^^ Ei Schülis |
 | **Akkusativ** | Den Schüler       | Die Schülerin      | Dis Schüli      |
-| ^^            | ^^ Einen Schüler  | ^^ Eine Schülerin  | ^^ Eins Schüli  |
+| ^^            | ^^ Einen Schüler  | ^^ Eine Schülerin  | ^^ Ei Schüli  |
 
 Der Plural wird wie bei allen anderen Geschlechtern mit den Artikel **die/der/den/die** gebildet. *Die Schülis* lösen die Aufgaben *der Lehris* und geben diese *den Mitarbeitis*.
 
@@ -124,16 +126,16 @@ Mein Schüler, deine Kleidung, sein Stift, ihre Mappe, euer Zimmer – Possesivp
 
 |               | maskulin            | feminin              | utrum              |
 |:--------------|:--------------------|:---------------------|:-------------------|
-| **Nominativ** | ein guter Lehrer    | eine gute Lehrerin   | eins gute Lehri    |
-| **Genitiv**   | eines guten Lehrers | einer guten Lehrerin | einis guten Lehris |
-| **Dativ**     | einem guten Lehrer  | einer guten Lehrerin | einis guten Lehris |
-| **Akkusativ** | einen guten Lehrer  | eine gute Lehrerin   | eins gute Lehri    |
+| **Nominativ** | ein guter Lehrer    | eine gute Lehrerin   | ei guti Lehri    |
+| **Genitiv**   | eines guten Lehrers | einer guten Lehrerin | eis gutis Lehris |
+| **Dativ**     | einem guten Lehrer  | einer guten Lehrerin | eis gutis Lehris |
+| **Akkusativ** | einen guten Lehrer  | eine gute Lehrerin   | ei guti Lehri    |
 
 ## Beispielsätze
 
 *Gender-i*:
 - Die kleinen *Schülis* gehen mit *dis Lehri* in ihr Klassenzimmer. 
-- *Eins Schüli* gibt *is* Turnbeutel *dis Lehri*.
+- *Ei Schüli* gibt *is* Turnbeutel *dis Lehri*.
 
 *Genderstern*:
 - Die kleinen Schüler\*innen gehen mit der\*dem Lehrer\*in in ihr Klassenzimmer. 
@@ -145,7 +147,7 @@ Mein Schüler, deine Kleidung, sein Stift, ihre Mappe, euer Zimmer – Possesivp
 
 ### Beispieltext
 
-> *Tanwarin Sukkhapisit ist **eins thailändischi Filmemachi** und **Politiki** mit nicht-binärer Geschlechtsidentität. **I** ist für Kurzfilme und Spielfilme bekannt, die sich mit der LGBT-Erfahrung auseinandersetzen. Bei den Wahlen im Jahr 2019 wurde **i zui** ersten offen transidenten Abgeordneten im thailändischen Parlament. Als Hauptprioritäten **is** Abgeordnetentätigkeit hat Tanwarin **is** Einsatz für die Ehe für alle sowie für eine Überarbeitung des schulischen Sexualkundeunterrichts genannt.*
+> *Tanwarin Sukkhapisit ist **ei thailändischi Filmemachi** und **Politiki** mit nicht-binärer Geschlechtsidentität. **I** ist für Kurzfilme und Spielfilme bekannt, die sich mit der LGBT-Erfahrung auseinandersetzen. Bei den Wahlen im Jahr 2019 wurde **i zui** ersten offen transidenten Abgeordneten im thailändischen Parlament. Als Hauptprioritäten **is** Abgeordnetentätigkeit hat Tanwarin **is** Einsatz für die Ehe für alle sowie für eine Überarbeitung des schulischen Sexualkundeunterrichts genannt.*
 
 ## Spezialformen und Ausnahmen
 

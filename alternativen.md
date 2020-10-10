@@ -3,7 +3,19 @@ layout: default
 title: Alternativen
 nav_order: 4
 ---
-# Alternativen zum Gender-i
+# Alternative Endungen und Formen
+
+## Unbestimmter Artikel
+
+Der unbestimmte Artikel **ei** ist noch nicht zu 100% festgelegt. **Ei** besticht durch seine kurze Schreibweise, die tatsächlich ein Präfix der anderen unbestimmten Artikel der anderen Genera ist (**ei**n/**ei**ne). Außerdem endet er mit dem Buchstaben **i**, sodass dies mit dem Konzept des *Gender-i* sehr gut harmoniert. 
+
+Im Verlauf des Projektes wurden bisher folgende Alternativen überlegt und aus Gründen nicht weiter verfolgt:
+
+- **ein**: Dies ist bereits der Artikel im maskulin und neutrum. Da das Gender-i die Motivation hat, keine bereits bestehenden Formen zu benutzen, wenn diese nicht bei allen bisherigen Genera gleich ist, fällt **ein** weg.
+- **eins**: Dies klingt sehr nach einer Neutrum-Form, auch wenn dies nicht so ist. *Eins* war lange Favorit als unbestimmter Artikel. Auch könnte so der Konflikt mit dem Wort für die Zahl 1 aufgelöst werden: 1 Schüli, 2 Schülis wären tatsächlich als Kurzform möglich.
+- **en**: Klingt nach einem Dialekt für die männliche/neutrale Form.
+
+# Alternativsysteme zum Gender-i
 
 Es gibt bereits viele Meinungen, wie gendergerechte Sprache auszusehen hat – über Doppelnennungen, den Genderstern und neue Sprachkonstrukte. Doch die hier aufgezählten Alternativen zum *Gender-i* haben alle ihre eigenen Probleme, die mit dem *Gender-i* gelöst werden sollen. Diese Liste hat nicht den Anspruch vollständig zu sein, versucht aber einige populäre Alternativen und ihre Probleme aufzuzeigen.
 
