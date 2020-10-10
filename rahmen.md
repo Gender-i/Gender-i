@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Rahmen
-nav_order: 2
-parent: Motivation
+nav_order: 3
 ---
 # Rahmen
 

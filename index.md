@@ -4,13 +4,24 @@ title: Gender-i
 nav_order: 1
 description: "Das neue geschlechterneutrale Genus der deutschen Sprache"
 permalink: /
-last_modified_date: 2020-09-06T17:54:08+0000
+last_modified_date: 2020-10-05T22:54:08+0000
 ---
 ![Gender-i](/assets/images/Gender-i-512.png){:.logo}
 
-Das **Gender-i** führt ein neues Genus, also ein neues grammatikalisches „Geschlecht“, ein. Dies hat, anders als das Maskulinum und das Femininum, keinen Bezug zu einem der beiden traditionellen Geschlechter und erweckt, anders als das Neutrum, nicht den Eindruck, dass über eine Sache gesprochen wird. 
+Das **Gender-i** führt ein neues Genus, also ein neues grammatikalisches „Geschlecht“, ein[^1]. Dies hat, anders als das Maskulinum und das Femininum, keinen Bezug zu einem der beiden traditionellen Geschlechter (Sexus) und erweckt, anders als das Neutrum, nicht den Eindruck, dass über eine Sache gesprochen wird. 
 
 Dieses neue geschlechtergerechte Genus nennt sich Utrum und wird bei Artikelwörtern und Pronomen durch die Singular-Endungen **-i** (im Nominativ und Akkusativ) und **-is** (im Genitiv und Dativ) gekennzeichnet. Das zugehörige Personalpronomen lautet **i**.
+
+[^1]: Siehe [Motivation](/motivation#warum-ein-neues-system)
+
+<details open markdown="block">
+  <summary>
+    Inhaltsverzeichnis
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## Bildung
 
@@ -26,7 +37,7 @@ Bei Nomen, die mit der Endung **-e** in der Grundform feminin sind (*z.B. Witwe*
 
 *Beispiel: Witwe -> Witwi (singular), Witwis (plural)*
 
-### Aussprache
+### Aussprache der Endungen
 
 Die Aussprache der Endung **-i** (`[i]`{:.ipa}) erfolgt analog zur Aussprache der Endung von **Uni**. Dies steht im Gegensatz zu dem betonten langen `[iː]`{:.ipa} wie *nie* oder *Akademie*. 
 
@@ -42,7 +53,28 @@ Unregelmäßige Formen
 - Arzt/Ärztin -> Ärzti (singular), Ärztis (plural) ([s. Umlautungen](/motivation/spezialformen#umlautungen))
 - Präsident, Präsidenten -> Präsidenti, Präsidentis
 
-## Personalpronomen
+## Artikel
+
+Die Artikel des Gender-i sind **eins** (`[aɪ̯ns]`) (unbestimmt) und **dis** (`[dɪs]`) (bestimmt). Im Plural bleibt das generische **die** der anderen Genera.
+
+Der Artikel bleibt in allen grammatikalischen Fällen gleich. Im Nominativ und im Akkusativ werden die Endungen **-i** `[i]`{:.ipa} und im Genitiv und Dativ die Endung **-is** `[iːs]`{:.ipa}. Dies sorgt für einfache Regeln, da auch in anderen Geschlechtern Doppelbelegungen benutzt werden. Damit fallen komplizierte Regeln weg, was das Erlenen des *Gender-i* einfacher gestaltet.
+
+|               | maskulin          | feminin            | utrum           |
+|:--------------|:------------------|:-------------------|:----------------|
+| **Nominativ** | Der Schüler       | Die Schülerin      | Dis Schüli      |
+| ^^            | ^^ Ein Schüler    | ^^ Eine Schülerin  | ^^ Eins Schüli  |
+| **Genitiv**   | Des Schülers      | Der Schülerin      | Dis Schülis     |
+| ^^            | ^^ Eines Schülers | ^^ Einer Schülerin | ^^ Eins Schülis |
+| **Dativ**     | Dem Schüler       | Der Schülerin      | Dis Schülis     |
+| ^^            | ^^ Einem Schüler  | ^^ Einer Schülerin | ^^ Eins Schülis |
+| **Akkusativ** | Den Schüler       | Die Schülerin      | Dis Schüli      |
+| ^^            | ^^ Einen Schüler  | ^^ Eine Schülerin  | ^^ Eins Schüli  |
+
+Der Plural wird wie bei allen anderen Geschlechtern mit den Artikel **die/der/den/die** gebildet. *Die Schülis* lösen die Aufgaben *der Lehris* und geben diese *den Mitarbeitis*.
+
+## Pronomen
+
+### Personalpronomen
 
 |               | \1. Person | \2. Person | \3. Person (utrum) |
 |:--------------|:-----------|:-----------|:-----------|
@@ -59,24 +91,43 @@ Unregelmäßige Formen
 | **Dativ**     | is    | ihm        | ihr     | sein    |
 | **Akkusativ** | i     | ihn        | sie     | es      |
 
-### Artikel und Deklination
+### Possesivpronomen
 
-Die Artikel des Gender-i sind **eins** (`[aɪ̯ns]`) (unbestimmt) und **dis** (`[dɪs]`) (bestimmt). Im Plural bleibt das generische **die** der anderen Genera.
+Mein Schüler, deine Kleidung, sein Stift, ihre Mappe, euer Zimmer – Possesivpronomen müssen ebenfalls dekliniert werden – und zwar einmal abhängig von dem Genus des besitzenden Objektes und das Genus des besessenen Objektes.
 
-Sowohl der Artikel als auch das Nomen bleiben in allen grammatikalischen Fällen gleich. Dies sorgt für einfache und einheitliche Regeln, die angelehnt sind an die ebenfalls doppelt belegten Formen der klassischen grammatikalischen Geschlechter.
+|               | ich              | du               | er / es          | sie             |
+|:--------------|:-----------------|:-----------------|:-----------------|:----------------|
+| **Nominativ** | meini Schüli   | deini Schüli   | seini Schüli   | ihri Schüli   |
+| **Genitiv**   | meinis Schülis | deinis Schülis | seinis Schülis | ihris Schülis |
+| **Dativ**     | meinis Schülis | deinis Schülis | seinis Schülis | ihris Schülis |
+| **Akkusativ** | meini Schüli   | deini Schüli   | seini Schüli   | ihri Schüli   |
 
-|               | maskulin          | feminin            | utrum           |
-|:--------------|:------------------|:-------------------|:----------------|
-| **Nominativ** | Der Schüler       | Die Schülerin      | Dis Schüli      |
-| ^^            | ^^ Ein Schüler    | ^^ Eine Schülerin  | ^^ Eins Schüli  |
-| **Genitiv**   | Des Schülers      | Der Schülerin      | Dis Schülis     |
-| ^^            | ^^ Eines Schülers | ^^ Einer Schülerin | ^^ Eins Schülis |
-| **Dativ**     | Dem Schüler       | Der Schülerin      | Dis Schülis     |
-| ^^            | ^^ Einem Schüler  | ^^ Einer Schülerin | ^^ Eins Schülis |
-| **Akkusativ** | Den Schüler       | Die Schülerin      | Dis Schüli      |
-| ^^            | ^^ Einen Schüler  | ^^ Eine Schülerin  | ^^ Eins Schüli  |
+|               | wir               | ihr             | sie             | i               |
+|:--------------|:----------------- |:----------------|:----------------|:----------------|
+| **Nominativ** | unseri Schüli   | euri Schüli   | ihri Schüli   | is Schüli     |
+| **Genitiv**   | unseris Schülis | euris Schülis | ihris Schülis | isis Schülis  |
+| **Dativ**     | unseris Schülis | euris Schülis | ihris Schülis | isis Schülis  |
+| **Akkusativ** | unseri Schüli   | euri Schüli   | ihri Schüli   | is Schüli     |
 
-Plural: Die Schülis
+## Adjektive
+
+### Mit bestimmtem Artikel
+
+|               | maskulin          | feminin            | utrum              |
+|:--------------|:------------------|:-------------------|:-------------------|
+| **Nominativ** | der gute Lehrer   | die gute Lehrerin  | Dis gute Lehri     |
+| **Genitiv**   | des guten Lehrers | der guten Lehrerin | Disis guten Lehris |
+| **Dativ**     | dem guten Lehrer  | der guten Lehrerin | Disis guten Lehris |
+| **Akkusativ** | den guten Lehrer  | die gute Lehrerin  | Dis gute Lehri     |
+
+### Unbestimmter Artikel
+
+|               | maskulin            | feminin              | utrum              |
+|:--------------|:--------------------|:---------------------|:-------------------|
+| **Nominativ** | ein guter Lehrer    | eine gute Lehrerin   | eins gute Lehri    |
+| **Genitiv**   | eines guten Lehrers | einer guten Lehrerin | einis guten Lehris |
+| **Dativ**     | einem guten Lehrer  | einer guten Lehrerin | einis guten Lehris |
+| **Akkusativ** | einen guten Lehrer  | eine gute Lehrerin   | eins gute Lehri    |
 
 ## Beispielsätze
 
@@ -85,9 +136,21 @@ Plural: Die Schülis
 - *Eins Schüli* gibt *is* Turnbeutel *dis Lehri*.
 
 *Genderstern*:
-- Die kleinen Schüler*innen gehen mit der*dem Lehrer*in in ihr Klassenzimmer. 
-- Ein*e Schüler*in gibt seinen/ihren Turnbeutel dem/der Lehrer*in.
+- Die kleinen Schüler\*innen gehen mit der\*dem Lehrer\*in in ihr Klassenzimmer. 
+- Ein*e Schüler\*in gibt seinen/ihren Turnbeutel dem/der Lehrer*in.
 
 *Generisches Maskulinum*:
 - Die kleinen Schüler gehen mit dem Lehrer in ihr Klassenzimmer. 
 - Ein Schüler gibt seinen Turnbeutel dem Lehrer.
+
+### Beispieltext
+
+> *Tanwarin Sukkhapisit ist **eins thailändischi Filmemachi** und **Politiki** mit nicht-binärer Geschlechtsidentität. **I** ist für Kurzfilme und Spielfilme bekannt, die sich mit der LGBT-Erfahrung auseinandersetzen. Bei den Wahlen im Jahr 2019 wurde **i zui** ersten offen transidenten Abgeordneten im thailändischen Parlament. Als Hauptprioritäten **is** Abgeordnetentätigkeit hat Tanwarin **is** Einsatz für die Ehe für alle sowie für eine Überarbeitung des schulischen Sexualkundeunterrichts genannt.*
+
+## Spezialformen und Ausnahmen
+
+### Umlautungen
+
+Umlautungen wie „Arzt“ (maskulin) und „Ärztin“ (feminin) (*weitere Beispiele: Bauer/Bäuerin, Bischof/Bischöfin*) behalten beim Gender-i die Grundform der femininen Variante.
+
+Gender-i: *Ärzti, Bäueri, Bischöfi*

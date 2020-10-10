@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Mitmachen
-nav_order: 3
+nav_order: 5
 ---
 # Mitmachen
 
 ## Rechtliches
 
-Dieses Projekt ist bisher initiiert von [Andreas Ganske](https://chaosspace.de) ([@ChaosCoder](https://github.com/ChaosCoder)). Es gibt bereits Bestrebungen, einen Trägerverein zu gründen, der das Projekt vorantreibt und den rechtlichen Rahmen schafft.
+Dieses Projekt ist bisher initiiert von [Andreas Ganske](https://chaosspace.de) ([@ChaosCoder](https://github.com/ChaosCoder)).
 
 ## Finanzielle Unterstützung
 
-Dieses Projekt hat noch keine rechtliche Form, um finanzielle Unterstützung zu erhalten (s. [Rechtliches](#rechtlichtes)).
+Dieses Projekt hat noch keine rechtliche Form, um finanzielle Unterstützung zu erhalten.
 
 ## Feedback
 
