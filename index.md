@@ -8,6 +8,8 @@ last_modified_date: 2020-10-05T22:54:08+0000
 ---
 ![Gender-i](/assets/images/Gender-i-512.png){:.logo}
 
+> „**Ei Lehri** unterrichtet die **Schülis** der Klasse 5b. **I** lehrt Mathematik und Biologie.“
+
 Das **Gender-i** führt ein neues Genus, also ein neues grammatikalisches „Geschlecht“, ein[^1]. Dies hat, anders als das Maskulinum und das Femininum, keinen Bezug zu einem der beiden traditionellen Geschlechter (Sexus) und erweckt, anders als das Neutrum, nicht den Eindruck, dass über eine Sache gesprochen wird. 
 
 Dieses neue geschlechtergerechte Genus nennt sich Utrum und wird bei Artikelwörtern und Pronomen durch die Singular-Endungen **-i** (im Nominativ und Akkusativ) und **-is** (im Genitiv und Dativ) gekennzeichnet. Das zugehörige Personalpronomen lautet **i**.
