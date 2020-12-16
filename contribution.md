@@ -5,9 +5,15 @@ nav_order: 5
 ---
 # Mitmachen
 
+## Helfen
+
+Gender-i ist offen für Verbesserungen, Dialog, Kritik und Hilfe.
+
+Der Inhalt dieser Website ist auf [GitHub](https://github.com/Gender-i/Gender-i) einseh- und verbesserbar. Mit Hilfe von Issues können dort Probleme angemerkt und anschließend diskutiert werden. Bei Verbesserungen der Seite können Pull Requests erstellt werden.
+
 ## Rechtliches
 
-Dieses Projekt ist bisher initiiert von [Andreas Ganske](https://chaosspace.de) ([@ChaosCoder](https://github.com/ChaosCoder)).
+Dieses Projekt ist initiiert von [Andreas Ganske](https://chaosspace.de) ([@ChaosCoder](https://github.com/ChaosCoder)).
 
 ## Finanzielle Unterstützung
 
