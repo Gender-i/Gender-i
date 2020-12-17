@@ -5,7 +5,7 @@ exclude:
   - Material
 description: Das neue geschlechterspefische Genus für die deutsche Sprache
 search_enabled: true
-footer_content: "&copy; 2020 Andreas Ganske. Dieses Werk ist lizenziert unter einer <a href=\"https://creativecommons.org/licenses/by/4.0)\">Creative Commons Namensnennung 4.0 International Lizenz</a>"
+footer_content: "&copy; 2020 Andreas Ganske. <a href=\"/impressum\">Impressum</a>. Dieses Werk ist lizenziert unter <a href=\"https://creativecommons.org/licenses/by/4.0/deed.de\">CC BY 4.0</a>."
 remote_theme: pmarsceill/just-the-docs
 
 aux_links:
