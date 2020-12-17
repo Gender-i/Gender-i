@@ -5,8 +5,6 @@ nav_order: 5
 ---
 # Mitmachen
 
-## Helfen
-
 Gender-i ist offen für Verbesserungen, Dialog, Kritik und Hilfe.
 
 Der Inhalt dieser Website ist auf [GitHub](https://github.com/Gender-i/Gender-i) einseh- und verbesserbar. Mit Hilfe von Issues können dort Probleme angemerkt und anschließend diskutiert werden. Bei Verbesserungen der Seite können Pull Requests erstellt werden.
@@ -65,4 +63,4 @@ Projektverantwortliche, welche den Verhaltenskodex nicht befolgen, oder nicht na
 
 ### Bezug
 
-Dieser Verhaltenskodex basiert auf dem Contributor Covenant, Version 1.4, verfügbar unter https://www.contributor-covenant.org/de/version/1/4/code-of-conduct.html
+Dieser Verhaltenskodex basiert auf dem Contributor Covenant, Version 1.4, verfügbar unter [contributor-covenant.org/de/version/1/4/code-of-conduct](https://www.contributor-covenant.org/de/version/1/4/code-of-conduct.html)
