@@ -6,3 +6,7 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="msapplication-config" content="/assets/images/favicons/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
+
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
