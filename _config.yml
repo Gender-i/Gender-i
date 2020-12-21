@@ -7,6 +7,7 @@ description: Das neue geschlechterspefische Genus für die deutsche Sprache
 search_enabled: true
 footer_content: "&copy; 2020 Andreas Ganske. <a href=\"/impressum\">Impressum</a>. Dieses Werk ist lizenziert unter <a href=\"https://creativecommons.org/licenses/by/4.0/deed.de\">CC BY 4.0</a>."
 remote_theme: pmarsceill/just-the-docs
+permalink: /:categories/:year/:month/:day/:title/
 
 aux_links:
   "Gender-i auf GitHub":
