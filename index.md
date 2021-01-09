@@ -12,6 +12,12 @@ last_modified_date: 2020-10-05T22:54:08+0000
 
 Das **Gender-i** führt ein neues Genus, also ein neues grammatikalisches „Geschlecht“, ein[^1]. Dies hat, anders als das Maskulinum und das Femininum, keinen Bezug zu einem der beiden traditionellen Geschlechter (Sexus) und erweckt, anders als das Neutrum, nicht den Eindruck, dass über eine Sache gesprochen wird. 
 
+| Gender-i                  | generisches maskulin               | Genderstern                           |
+|:--------------------------|:-----------------------------------|:--------------------------------------|
+| **Die Lehris**            | Die Lehrer                         | Die Lehrer\*innen                     | 
+| **Ei Schüli**             | Ein Schüler                        | Ein\\*e Schüler\*in                   |
+| **I präsentiert is Idee** | Er/sie präsentiert seine/ihre Idee | Er\\*sie präsentiert seine\*ihre Idee |
+
 Dieses neue geschlechtergerechte Genus nennt sich Utrum und wird bei Artikelwörtern und Pronomen durch die Singular-Endungen **-i** (im Nominativ und Akkusativ) und **-is** (im Genitiv und Dativ) gekennzeichnet. Das zugehörige Personalpronomen lautet **i**.
 
 [^1]: Siehe [Motivation](motivation#warum-ein-neues-system)
@@ -29,15 +35,15 @@ Dieses neue geschlechtergerechte Genus nennt sich Utrum und wird bei Artikelwör
 
 Bei geschlechterbehafteten Nomen mit der Endung **-er** (*maskulin*) und **-erin** (*feminin*) im Singular (*z.B. Schüler*) wird die Gender-i Form mit Hilfe der Endung **-i** (`[i]`{:.ipa}) gebildet. Im Plural wird die Endung **-is** (`[is]`{:.ipa}) benutzt. 
 
-*Beispiel: Schüler -> Schüli (singular), Schülis (plural)*
+*Beispiel: Schüler → Schüli (singular), Schülis (plural)*
 
 Bei anderen Nomen, bei denen die feminine Form im Singular durch das Hinzufügen der Endung **-in** gebildet wird (*z.B. Praktikant*), wird beim Gender-i die Endung **-i** (`[i]`{:.ipa}) an die maskuline Form gehängt. Im Plural wird auch hier die Endung **-is** (`[is]`{:.ipa}) benutzt. 
 
-*Beispiel: Praktikant -> Praktikanti (singular), Praktikantis (plural)*
+*Beispiel: Praktikant → Praktikanti (singular), Praktikantis (plural)*
 
 Bei Nomen, die mit der Endung **-e** in der Grundform feminin sind (*z.B. Witwe*) und deren männliche Variante mit der Endung **-er** gebildet wird, wird für das Gender-i die Endungen **-i** (`[i]`{:.ipa}) (singular) und **-is** (`[is]`{:.ipa}) (plural) benutzt.
 
-*Beispiel: Witwe -> Witwi (singular), Witwis (plural)*
+*Beispiel: Witwe → Witwi (singular), Witwis (plural)*
 
 ### Aussprache der Endungen
 
@@ -47,13 +53,13 @@ Die Aussprache der Endung **-is** (`[is]`{:.ipa}) erfolgt analog zur Aussprache 
 
 ### Weitere Beispiele
 
-- Arbeiter -> Arbeiti (singular), Arbeitis (plural)
-- Verkäufer -> Verkäufi (singular), Verkäufis (plural)
-- Politiker -> Politiki (singular), Politikis (plural)
+- Arbeiter → Arbeiti (singular), Arbeitis (plural)
+- Verkäufer → Verkäufi (singular), Verkäufis (plural)
+- Politiker → Politiki (singular), Politikis (plural)
 
 Unregelmäßige Formen
-- Arzt/Ärztin -> Ärzti (singular), Ärztis (plural) ([s. Umlautungen](motivation/spezialformen#umlautungen))
-- Präsident, Präsidenten -> Präsidenti, Präsidentis
+- Arzt/Ärztin → Ärzti (singular), Ärztis (plural) ([s. Umlautungen](motivation/spezialformen#umlautungen))
+- Präsident, Präsidenten → Präsidenti, Präsidentis
 
 ## Artikel
 
