@@ -1,8 +1,8 @@
 ![Gender-i](/assets/images/Gender-i-512.png)
 
-Das **Gender-i** führt ein neues Genus, also ein neues grammatikalisches „Geschlecht“, ein.
+Das **Gender-i** ist ein neues Genus, also ein neues grammatikalisches „Geschlecht“, für die deutsche Sprache.
 
-Dieses neue geschlechtergerechte Genus nennt sich Utrum und wird bei Artikelwörtern und Pronomen durch die Singular-Endungen **-i** (im Nominativ und Akkusativ) und **-is** (im Genitiv und Dativ) gekennzeichnet. Das zugehörige Personalpronomen lautet **i**.
+Dieses neue geschlechtergerechte Genus wird bei Artikelwörtern und Pronomen durch die Singular-Endungen **-i** (im Nominativ und Akkusativ) und **-is** (im Genitiv und Dativ) gekennzeichnet. Das zugehörige Personalpronomen lautet **i**.
 
 Offizielle Website: [gender-i.de](https://gender-i.de)
 

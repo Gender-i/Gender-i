@@ -25,11 +25,11 @@ Die Frage *„Nenne deinen Lieblings-Popsänger“* führt zu mehr Antworten mit
 
 ## Kriterien
 
-Die neuen geschlechtsneutralen Utrum-Formen des Gender-i sollen drei wichtige Kriterien erfüllen:
+Die neuen geschlechtsneutralen Formen des Gender-i sollen drei wichtige Kriterien erfüllen:
 
-1. Immer wenn sich die maskuline Form von der femininen Form unterscheidet, sollte sich auch die geschlechtsneutrale Utrum-Form von diesen beiden Formen unterscheiden.
-2. Die geschlechtsneutralen Utrum-Formen sollten leicht aussprechbar sein und klanglich gut zu dem gewöhnlichem Klang der deutschen Sprache passen.
-3. Die neuen Utrum-Formen sollten leicht erlernbar sein und sollten nach einer kurzen Eingewöhnungszeit für Deutschsprachige natürlich klingen. Zu diesem Zwecke sollten die neuen Endungen von Pronomen, Adjektiven und Artikeln gut zueinander passen, und die Deklination in den verschiedenen grammatikalischen Fällen sollte sich an existierenden Deklinationsmustern orientieren.
+1. Immer wenn sich die maskuline Form von der femininen Form unterscheidet, sollte sich auch die geschlechtsneutrale Form von diesen beiden Formen unterscheiden.
+2. Die geschlechtsneutralen Formen sollten leicht aussprechbar sein und klanglich gut zu dem gewöhnlichem Klang der deutschen Sprache passen.
+3. Die neuen Formen sollten leicht erlernbar sein und sollten nach einer kurzen Eingewöhnungszeit für Deutschsprachige natürlich klingen. Zu diesem Zwecke sollten die neuen Endungen von Pronomen, Adjektiven und Artikeln gut zueinander passen, und die Deklination in den verschiedenen grammatikalischen Fällen sollte sich an existierenden Deklinationsmustern orientieren.
 
 ## Vorteile
 

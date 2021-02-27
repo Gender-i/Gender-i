@@ -18,7 +18,7 @@ Das **Gender-i** führt ein neues Genus, also ein neues grammatikalisches „Ges
 | **Ei Schüli**             | Ein Schüler                        | Ein\\*e Schüler\*in                   |
 | **I präsentiert is Idee** | Er/sie präsentiert seine/ihre Idee | Er\\*sie präsentiert seine\*ihre Idee |
 
-Dieses neue geschlechtergerechte Genus nennt sich Utrum und wird bei Artikelwörtern und Pronomen durch die Singular-Endungen **-i** (im Nominativ und Akkusativ) und **-is** (im Genitiv und Dativ) gekennzeichnet. Das zugehörige Personalpronomen lautet **i**.
+Dieses neue geschlechtergerechte Genus nennt sich Gender-i und wird bei Artikelwörtern und Pronomen durch die Singular-Endungen **-i** (im Nominativ und Akkusativ) und **-is** (im Genitiv und Dativ) gekennzeichnet. Das zugehörige Personalpronomen lautet **i**.
 
 [^1]: Siehe [Motivation](motivation#warum-ein-neues-system)
 
@@ -69,16 +69,16 @@ Die Artikel des Gender-i sind **ei**[^2] (`[aɪ̯]`) (unbestimmt) und **dis** (`
 
 Der Artikel bleibt in allen grammatikalischen Fällen gleich. Im Nominativ und im Akkusativ werden die Endungen **-i** `[i]`{:.ipa} und im Genitiv und Dativ die Endung **-is** `[iːs]`{:.ipa}. Dies sorgt für einfache Regeln, da auch in anderen Geschlechtern Doppelbelegungen benutzt werden. Damit fallen komplizierte Regeln weg, was das Erlenen des *Gender-i* einfacher gestaltet.
 
-|               | maskulin          | feminin            | utrum           |
+|               | maskulin          | feminin            | Gender-i        |
 |:--------------|:------------------|:-------------------|:----------------|
 | **Nominativ** | Der Schüler       | Die Schülerin      | Dis Schüli      |
-| ^^            | ^^ Ein Schüler    | ^^ Eine Schülerin  | ^^ Ei Schüli  |
+| ^^            | ^^ Ein Schüler    | ^^ Eine Schülerin  | ^^ Ei Schüli    |
 | **Genitiv**   | Des Schülers      | Der Schülerin      | Dis Schülis     |
-| ^^            | ^^ Eines Schülers | ^^ Einer Schülerin | ^^ Ei Schülis |
+| ^^            | ^^ Eines Schülers | ^^ Einer Schülerin | ^^ Ei Schülis   |
 | **Dativ**     | Dem Schüler       | Der Schülerin      | Dis Schülis     |
-| ^^            | ^^ Einem Schüler  | ^^ Einer Schülerin | ^^ Ei Schülis |
+| ^^            | ^^ Einem Schüler  | ^^ Einer Schülerin | ^^ Ei Schülis   |
 | **Akkusativ** | Den Schüler       | Die Schülerin      | Dis Schüli      |
-| ^^            | ^^ Einen Schüler  | ^^ Eine Schülerin  | ^^ Ei Schüli  |
+| ^^            | ^^ Einen Schüler  | ^^ Eine Schülerin  | ^^ Ei Schüli    |
 
 Der Plural wird wie bei allen anderen Geschlechtern mit den Artikel **die/der/den/die** gebildet. *Die Schülis* lösen die Aufgaben *der Lehris* und geben diese *den Mitarbeitis*.
 
@@ -86,7 +86,7 @@ Der Plural wird wie bei allen anderen Geschlechtern mit den Artikel **die/der/de
 
 ### Personalpronomen
 
-|               | \1. Person | \2. Person | \3. Person (utrum) |
+|               | \1. Person | \2. Person | \3. Person (Gender-i) |
 |:--------------|:-----------|:-----------|:-----------|
 | **Nominativ** | ich        | du         | i          |
 | **Genitiv**   | meiner     | deiner     | is         |
@@ -94,12 +94,12 @@ Der Plural wird wie bei allen anderen Geschlechtern mit den Artikel **die/der/de
 | **Akkusativ** | mich       | dich       | i          |
 
 |               | \3. Person                          ||||
-| ^^            | utrum | maskulin   | feminin | neutrum |
-|:--------------|:------|:-----------|:--------|:--------|
-| **Nominativ** | i     | er         | sie     | es      |
-| **Genitiv**   | is    | seiner     | ihrer   | seiner  |
-| **Dativ**     | is    | ihm        | ihr     | sein    |
-| **Akkusativ** | i     | ihn        | sie     | es      |
+| ^^            | Gender-i | maskulin   | feminin | neutrum |
+|:--------------|:---------|:-----------|:--------|:--------|
+| **Nominativ** | i        | er         | sie     | es      |
+| **Genitiv**   | is       | seiner     | ihrer   | seiner  |
+| **Dativ**     | is       | ihm        | ihr     | sein    |
+| **Akkusativ** | i        | ihn        | sie     | es      |
 
 ### Possesivpronomen
 
@@ -123,7 +123,7 @@ Mein Schüler, deine Kleidung, sein Stift, ihre Mappe, euer Zimmer – Possesivp
 
 ### Mit bestimmtem Artikel
 
-|               | maskulin          | feminin            | utrum              |
+|               | maskulin          | feminin            | Gender-i           |
 |:--------------|:------------------|:-------------------|:-------------------|
 | **Nominativ** | der gute Lehrer   | die gute Lehrerin  | Dis gute Lehri     |
 | **Genitiv**   | des guten Lehrers | der guten Lehrerin | Disis guten Lehris |
@@ -132,7 +132,7 @@ Mein Schüler, deine Kleidung, sein Stift, ihre Mappe, euer Zimmer – Possesivp
 
 ### Unbestimmter Artikel
 
-|               | maskulin            | feminin              | utrum              |
+|               | maskulin            | feminin              | Gender-i           |
 |:--------------|:--------------------|:---------------------|:-------------------|
 | **Nominativ** | ein guter Lehrer    | eine gute Lehrerin   | ei guti Lehri    |
 | **Genitiv**   | eines guten Lehrers | einer guten Lehrerin | eis gutis Lehris |
