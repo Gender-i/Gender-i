@@ -33,7 +33,7 @@ Dieses neue geschlechtergerechte Genus nennt sich Gender-i und wird bei Artikelw
 
 ## Bildung
 
-Bei geschlechterbehafteten Nomen mit der Endung **-er** (*maskulin*) und **-erin** (*feminin*) im Singular (*z.B. Schüler*) wird die Gender-i Form mit Hilfe der Endung **-i** (`[i]`{:.ipa}) gebildet. Im Plural wird die Endung **-is** (`[is]`{:.ipa}) benutzt. 
+Bei geschlechterbehafteten Nomen mit der Endung **-er** (*maskulin*) und **-erin** (*feminin*) im Singular (*z.B. Schüler*) wird die Gender-i Form mit Hilfe der Endung **-i** (`[i]`{:.ipa}) gebildet. Die Endung **-i** wird, wie auch die Endungen für die maskuline, feminine und neutrale Form, an den Wortstamm angefügt. Im Plural wird die Endung **-is** (`[is]`{:.ipa}) benutzt. 
 
 *Beispiel: Schüler → Schüli (singular), Schülis (plural)*
 

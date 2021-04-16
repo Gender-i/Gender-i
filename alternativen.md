@@ -15,6 +15,18 @@ Im Verlauf des Projektes wurden bisher folgende Alternativen überlegt und aus G
 - **eins**: Dies klingt sehr nach einer Neutrum-Form, auch wenn dies nicht so ist. *Eins* war lange Favorit als unbestimmter Artikel. Auch könnte so der Konflikt mit dem Wort für die Zahl 1 aufgelöst werden: 1 Schüli, 2 Schülis wären tatsächlich als Kurzform möglich.
 - **en**: Klingt nach einem Dialekt für die männliche/neutrale Form.
 
+## Endung **-eri** statt **-i**
+
+Statt die Endung **-i** an den Wortstamm anzufügen, könnte man auch von der maskulinen Form ausgehen und dort das **-i** anhängen.
+
+Statt einem **Lehri**, **Schüli** oder mehreren **Bürgis**, wären es dann ein **Lehreri**, **Schüleri** und mehrere **Bürgeris**.
+
+Somit wäre der Unterschied zu der maskulinen und femininen Form nur ein einziger Buchstabe mehr, bzw weniger: \
+er + i = eri\
+erin - n = eri
+
+Problem an dieser Form ist, dass sie länger als die maskuline Form ist – in der Zeichenzahl, aber gerade auch im Hinblick auf die Silbenzahl. Dies ist für den Lese-/Redefluss nicht unbedeutend und ist ein oft gehörter Kritikpunkt auch von anderen Systemen wie dem *Genderstern*. Die Entscheidung beim Gender-i die Endung **-i** an den Wortstamm anzufügen, statt an die maskuline Form, schafft eine von den bestehenden Genusformen eine unabhängige Form. Dies ist ausdrücklich gewünscht, sodass diese alternative Form nicht weiter verfolgt wird.
+
 # Alternativsysteme zum Gender-i
 
 Es gibt bereits viele Meinungen, wie gendergerechte Sprache auszusehen hat – über Doppelnennungen, den Genderstern und neue Sprachkonstrukte. Doch die hier aufgezählten Alternativen zum *Gender-i* haben alle ihre eigenen Probleme, die mit dem *Gender-i* gelöst werden sollen. Diese Liste hat nicht den Anspruch vollständig zu sein, versucht aber einige populäre Alternativen und ihre Probleme aufzuzeigen.
