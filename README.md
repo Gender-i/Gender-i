@@ -30,7 +30,7 @@ Voraussetzung ist eine Ruby-Installation und Kenntnisse in der Kommandozeile eur
 
 #### Webseite bauen
 
-`jekyll serve`
+`bundle exec jekyll serve`
 
 #### Webseite aufrufen
 
