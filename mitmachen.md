@@ -7,25 +7,25 @@ nav_order: 5
 
 Gender-i ist offen für Verbesserungen, Dialog, Kritik und Hilfe.
 
-Der Inhalt dieser Website ist auf [GitHub](https://github.com/Gender-i/Gender-i) einseh- und verbesserbar. Mit Hilfe von Issues können dort Probleme angemerkt und anschließend diskutiert werden. Bei Verbesserungen der Seite können Pull Requests erstellt werden.
+Der Inhalt dieser Website ist auf [GitHub](https://github.com/Gender-i/Gender-i) einseh- und verbesserbar. Mit Hilfe von [Issues](https://github.com/Gender-i/Gender-i/issues) können dort Probleme angemerkt und anschließend diskutiert werden. Bei Verbesserungen der Seite können [Pull Requests](https://github.com/Gender-i/Gender-i/pulls) erstellt werden.
 
 ## Rechtliches
 
-Dieses Projekt ist initiiert von [Andreas Ganske](https://chaosspace.de) ([@ChaosCoder](https://github.com/ChaosCoder)).
+Dieses Projekt ist initiiert von [Andreas Ganske](https://chaosspace.de) ([Webseite](https://chaosspace.de), [Twitter](https://twitter.com/ChaosCoder), [GitHub](https://github.com/ChaosCoder)).
 
 ## Finanzielle Unterstützung
 
-Dieses Projekt hat noch keine rechtliche Form, um finanzielle Unterstützung zu erhalten.
+Dieses Projekt hat keine rechtliche Form, um finanzielle Unterstützung zu erhalten.
 
 ## Feedback
 
-Feedback jeglicher Form kann direkt als GitHub-Issue erstellt werden. So kann das Feedback von jedis eingesehen, kommentiert und diskutiert werden.
+Feedback jeglicher Form kann direkt als [GitHub-Issues](https://github.com/Gender-i/Gender-i/issues) erstellt werden. So kann das Feedback von jedis eingesehen, kommentiert und diskutiert werden.
 
 ## Vereinbarung über Verhaltenskodex für Mitwirkende
 
 ### Unsere Verpflichtung
 
-Im Interesse der Förderung eines offenen und einladenden Umfeldes wollen wir uns als Teilnehmer und Verantwortliche unseres Projektes verpflichten die Teilnahme an dem Projekt und unserer Gemeinschaft zu einer belästigungsfreien Erfahrung zu machen – unabhängig von Alter, Körpergröße, Behinderung, ethnischer Zuordnung, geschlechtlicher Identität und Ausdruck, Erfahrungsstufe, Nationalität, persönlicher Erscheinung, Rasse, Religion oder sexueller Identität oder Orientierung.
+Im Interesse der Förderung eines offenen und einladenden Umfeldes wollen wir uns als Teilnehmis und Verantwortliche unseres Projektes verpflichten die Teilnahme an dem Projekt und unserer Gemeinschaft zu einer belästigungsfreien Erfahrung zu machen – unabhängig von Alter, Körpergröße, Behinderung, ethnischer Zuordnung, geschlechtlicher Identität und Ausdruck, Erfahrungsstufe, Nationalität, persönlicher Erscheinung, Rasse, Religion oder sexueller Identität oder Orientierung.
 
 ### Unsere Standards
 
