@@ -10,7 +10,9 @@ last_modified_date: 2020-10-05T22:54:08+0000
 
 > „**Ei Lehri** unterrichtet die **Schülis** der Klasse 5b. **I** lehrt Mathematik und Biologie.“
 
-Das **Gender-i** führt ein neues Genus, also ein neues grammatikalisches „Geschlecht“, ein[^1]. Dies hat, anders als das Maskulinum und das Femininum, keinen Bezug zu einem der beiden traditionellen Geschlechter (Sexus) und erweckt, anders als das Neutrum, nicht den Eindruck, dass über eine Sache gesprochen wird. 
+Das **Gender-i**, mit der Endung **-i** und dem Personalpronomen **i**, ist ein neues **gendergerechtes Genus** für die deutsche Sprache.
+
+Dieses neue Genus (*grammatikalisches „Geschlecht“*) mit dem Namen **Gender-i** hat, anders als das Maskulinum und das Femininum, keinen Bezug zu einem der beiden traditionellen Geschlechter (Sexus) und erweckt, im Gegensatz zum Neutrum, nicht den Eindruck, dass über eine geschlechterlose Sache gesprochen wird. Dies ist Teil der [Motivation](motivation#warum-ein-neues-system) des Projekts Gender-i.
 
 | Gender-i                  | generisches maskulin               | Genderstern                           |
 |:--------------------------|:-----------------------------------|:--------------------------------------|
@@ -18,9 +20,7 @@ Das **Gender-i** führt ein neues Genus, also ein neues grammatikalisches „Ges
 | **Ei Schüli**             | Ein Schüler                        | Ein\\*e Schüler\*in                   |
 | **I präsentiert is Idee** | Er/sie präsentiert seine/ihre Idee | Er\\*sie präsentiert seine\*ihre Idee |
 
-Dieses neue geschlechtergerechte Genus nennt sich Gender-i und wird bei Artikelwörtern und Pronomen durch die Singular-Endungen **-i** (im Nominativ und Akkusativ) und **-is** (im Genitiv und Dativ) gekennzeichnet. Das zugehörige Personalpronomen lautet **i**.
-
-[^1]: Siehe [Motivation](motivation#warum-ein-neues-system)
+Das Gender-i wird bei Artikelwörtern und Pronomen durch die Singular-Endungen **-i** (im Nominativ und Akkusativ) und **-is** (im Genitiv und Dativ) gekennzeichnet. Das zugehörige Personalpronomen lautet **i**. Diese Seite gibt eine Übersicht über die Bildung und Deklination von bestehenden Wörtern.
 
 <details open markdown="block">
   <summary>
