@@ -1,6 +1,9 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
 
-gem "jekyll"
-gem "just-the-docs"
-gem "jekyll-spaceship"
-gem "bundler-audit"
+source 'https://rubygems.org'
+
+gem 'bundler-audit'
+gem 'jekyll'
+gem 'jekyll-spaceship'
+gem 'just-the-docs'
+gem 'rubocop'
