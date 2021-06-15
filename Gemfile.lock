@@ -3,6 +3,9 @@ GEM
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
+    bundler-audit (0.8.0)
+      bundler (>= 1.2.0, < 3)
+      thor (~> 1.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.9)
     em-websocket (0.5.2)
@@ -74,12 +77,14 @@ GEM
       ffi (~> 1.9)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
+    thor (1.1.0)
     unicode-display_width (1.7.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler-audit
   jekyll
   jekyll-spaceship
   just-the-docs
