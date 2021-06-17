@@ -38,4 +38,4 @@ Im Browser auf `http://127.0.0.1:4000` gehen. Die Seite wird automatisch neugela
 
 ## Vereinbarung über Verhaltenskodex für Mitwirkende
 
-Siehe [gender-i.de/contribution](https://gender-i.de/contribution).
+Siehe [gender-i.de/contribution](https://gender-i.de/mitmachen).
