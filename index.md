@@ -65,7 +65,7 @@ Unregelmäßige Formen
 
 Die Artikel des Gender-i sind **ei**[^2] (`[aɪ̯]`) (unbestimmt) und **dis** (`[dɪs]`) (bestimmt). Im Plural bleibt das generische **die** der anderen Genera.
 
-[^2]: Noch nicht 100%ig fest. Siehe [Alternativen](alternativen#unbestimmter-artikel)
+[^2]: Noch nicht 100%ig fest. Siehe [Optionen](optionen#unbestimmter-artikel)
 
 Der Artikel bleibt in allen grammatikalischen Fällen gleich. Im Nominativ und im Akkusativ werden die Endungen **-i** `[i]`{:.ipa} und im Genitiv und Dativ die Endung **-is** `[iːs]`{:.ipa}. Dies sorgt für einfache Regeln, da auch in anderen Geschlechtern Doppelbelegungen benutzt werden. Damit fallen komplizierte Regeln weg, was das Erlenen des *Gender-i* einfacher gestaltet.
 

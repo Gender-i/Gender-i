@@ -1,39 +1,19 @@
 ---
 layout: default
-title: Alternativen
-nav_order: 4
+title: Andere Sprachsysteme
+nav_order: 5
 ---
-# Alternative Endungen und Formen
-
-## Unbestimmter Artikel
-
-Der unbestimmte Artikel **ei** ist noch nicht zu 100% festgelegt. **Ei** besticht durch seine kurze Schreibweise, die tatsächlich ein Präfix der anderen unbestimmten Artikel der anderen Genera ist (**ei**n/**ei**ne). Außerdem endet er mit dem Buchstaben **i**, sodass dies mit dem Konzept des *Gender-i* sehr gut harmoniert. 
-
-Im Verlauf des Projektes wurden bisher folgende Alternativen überlegt und aus Gründen nicht weiter verfolgt:
-
-- **ein**: Dies ist bereits der Artikel im maskulin und neutrum. Da das Gender-i die Motivation hat, keine bereits bestehenden Formen zu benutzen, wenn diese nicht bei allen bisherigen Genera gleich ist, fällt **ein** weg.
-- **eins**: Dies klingt sehr nach einer Neutrum-Form, auch wenn dies nicht so ist. *Eins* war lange Favorit als unbestimmter Artikel. Auch könnte so der Konflikt mit dem Wort für die Zahl 1 aufgelöst werden: 1 Schüli, 2 Schülis wären tatsächlich als Kurzform möglich.
-- **en**: Klingt nach einem Dialekt für die männliche/neutrale Form.
-
-## Endung **-eri** statt **-i**
-
-Statt die Endung **-i** an den Wortstamm anzufügen, könnte man auch von der maskulinen Form ausgehen und dort das **-i** anhängen.
-
-Statt einem **Lehri**, **Schüli** oder mehreren **Bürgis**, wären es dann ein **Lehreri**, **Schüleri** und mehrere **Bürgeris**.
-
-Somit wäre der Unterschied zu der maskulinen und femininen Form nur ein einziger Buchstabe mehr, bzw weniger: \
-er + i = eri\
-erin - n = eri
-
-Problem an dieser Form ist, dass sie länger als die maskuline Form ist – in der Zeichenzahl, aber gerade auch im Hinblick auf die Silbenzahl. Dies ist für den Lese-/Redefluss nicht unbedeutend und ist ein oft gehörter Kritikpunkt auch von anderen Systemen wie dem *Genderstern*. Die Entscheidung beim Gender-i die Endung **-i** an den Wortstamm anzufügen, statt an die maskuline Form, schafft eine von den bestehenden Genusformen eine unabhängige Form. Dies ist ausdrücklich gewünscht, sodass diese alternative Form nicht weiter verfolgt wird.
-
 # Alternativsysteme zum Gender-i
 
 Es gibt bereits viele Meinungen, wie gendergerechte Sprache auszusehen hat – über Doppelnennungen, den Genderstern und neue Sprachkonstrukte. Doch die hier aufgezählten Alternativen zum *Gender-i* haben alle ihre eigenen Probleme, die mit dem *Gender-i* gelöst werden sollen. Diese Liste hat nicht den Anspruch vollständig zu sein, versucht aber einige populäre Alternativen und ihre Probleme aufzuzeigen.
 
-## Genderstern
+## Gender-Doppelpunkt und Genderstern(chen)
 
+Der Genderstern und der Gender-Doppelpunkt sind die populärsten Methoden, Texte zu gendern. 
 
+### Beispiele
+> Lehrer\*innen und Ärzt\*innen (Genderstern)\
+> Lehrer:innen und Ärzt:innen (Genderdoppelpunkt)
 
 ### Kritik
 
@@ -43,7 +23,7 @@ Es gibt bereits viele Meinungen, wie gendergerechte Sprache auszusehen hat – �
     - Beispiel: *ein\*e der Zuhörer\*innen, der/die …*
 - Vorleseprogramme (Screenreader) haben Schwierigkeiten
 
-Quellen: [Wikipedia](https://de.wikipedia.org/wiki/Gendersternchen), [genderleicht.de](https://www.genderleicht.de/Textlabor/genderstern-im-singular/)
+Quellen: [Gendersternchen auf Wikipedia](https://de.wikipedia.org/wiki/Gendersternchen), [Gender-Doppelpunkt auf Wikipedia](https://de.wikipedia.org/wiki/Gender-Doppelpunkt), [genderleicht.de](https://www.genderleicht.de/Textlabor/genderstern-im-singular/)
 
 ## Gender-x
 
