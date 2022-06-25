@@ -73,10 +73,10 @@ Der Artikel bleibt in allen grammatikalischen Fällen gleich. Im Nominativ und i
 |:--------------|:------------------|:-------------------|:----------------|
 | **Nominativ** | Der Schüler       | Die Schülerin      | Dis Schüli      |
 | ^^            | ^^ Ein Schüler    | ^^ Eine Schülerin  | ^^ Ei Schüli    |
-| **Genitiv**   | Des Schülers      | Der Schülerin      | Dis Schülis     |
-| ^^            | ^^ Eines Schülers | ^^ Einer Schülerin | ^^ Ei Schülis   |
-| **Dativ**     | Dem Schüler       | Der Schülerin      | Dis Schülis     |
-| ^^            | ^^ Einem Schüler  | ^^ Einer Schülerin | ^^ Ei Schülis   |
+| **Genitiv**   | Des Schülers      | Der Schülerin      | Disis Schülis     |
+| ^^            | ^^ Eines Schülers | ^^ Einer Schülerin | ^^ Eis Schülis   |
+| **Dativ**     | Dem Schüler       | Der Schülerin      | Disis Schülis     |
+| ^^            | ^^ Einem Schüler  | ^^ Einer Schülerin | ^^ Eis Schülis   |
 | **Akkusativ** | Den Schüler       | Die Schülerin      | Dis Schüli      |
 | ^^            | ^^ Einen Schüler  | ^^ Eine Schülerin  | ^^ Ei Schüli    |
 
@@ -103,32 +103,30 @@ Der Plural wird wie bei allen anderen Geschlechtern mit den Artikel **die/der/de
 
 ### Possesivpronomen
 
-Mein Schüler, deine Kleidung, sein Stift, ihre Mappe, euer Zimmer – Possesivpronomen müssen ebenfalls dekliniert werden – und zwar einmal abhängig von dem Genus des besitzenden Objektes und das Genus des besessenen Objektes.
+Mein Schüler, deine Kleidung, sein Stift, ihre Mappe, euer Zimmer – Possesivpronomen müssen ebenfalls dekliniert werden, sind aber genauso aufgebaut, wie die Personalpronomen.
 
-|               | ich              | du               | er / es          | sie             |
-|:--------------|:-----------------|:-----------------|:-----------------|:----------------|
-| **Nominativ** | meini Schüli   | deini Schüli   | seini Schüli   | ihri Schüli   |
-| **Genitiv**   | meinis Schülis | deinis Schülis | seinis Schülis | ihris Schülis |
-| **Dativ**     | meinis Schülis | deinis Schülis | seinis Schülis | ihris Schülis |
-| **Akkusativ** | meini Schüli   | deini Schüli   | seini Schüli   | ihri Schüli   |
+| Fall          | i               |
+|:--------------|:----------------|
+| **Nominativ** | is Kleidung     |
+| **Genitiv**   | isis Kleidung   |
+| **Dativ**     | isis Kleidung   |
+| **Akkusativ** | is Kleidung     |
 
-|               | wir               | ihr             | sie             | i               |
-|:--------------|:----------------- |:----------------|:----------------|:----------------|
-| **Nominativ** | unseri Schüli   | euri Schüli   | ihri Schüli   | is Schüli     |
-| **Genitiv**   | unseris Schülis | euris Schülis | ihris Schülis | isis Schülis  |
-| **Dativ**     | unseris Schülis | euris Schülis | ihris Schülis | isis Schülis  |
-| **Akkusativ** | unseri Schüli   | euri Schüli   | ihri Schüli   | is Schüli     |
+Wird die Possesivform mit einem genderneutralen Objekt verwendet, so wird wie bisher dekliniert. Beispiel:
+*Mein Schüli, deine Lehris, sein/ihr/sein Mitarbeiti*, etc.
 
 ## Adjektive
+
+Das Gender-i bildet Adjektive mit der gewohnten Endung **-i** (`[i]`{:.ipa}) (Nominativ und Akkusativ) und der kurzen Endung **-is** (`[ɪs]`{:.ipa}) (Genitiv und Dativ). Das Adjektiv wird unabhängig von dem Einsatz eines bestimmten oder unbestimmten Artikels gebildet und ist daher einfacher zu bilden als bisher.
 
 ### Mit bestimmtem Artikel
 
 |               | maskulin          | feminin            | Gender-i           |
 |:--------------|:------------------|:-------------------|:-------------------|
-| **Nominativ** | der gute Lehrer   | die gute Lehrerin  | Dis gute Lehri     |
-| **Genitiv**   | des guten Lehrers | der guten Lehrerin | Disis guten Lehris |
-| **Dativ**     | dem guten Lehrer  | der guten Lehrerin | Disis guten Lehris |
-| **Akkusativ** | den guten Lehrer  | die gute Lehrerin  | Dis gute Lehri     |
+| **Nominativ** | der gute Lehrer   | die gute Lehrerin  | Dis guti Lehri     |
+| **Genitiv**   | des guten Lehrers | der guten Lehrerin | Disis gutis Lehris |
+| **Dativ**     | dem guten Lehrer  | der guten Lehrerin | Disis gutis Lehris |
+| **Akkusativ** | den guten Lehrer  | die gute Lehrerin  | Dis guti Lehri     |
 
 ### Unbestimmter Artikel
 
@@ -142,11 +140,11 @@ Mein Schüler, deine Kleidung, sein Stift, ihre Mappe, euer Zimmer – Possesivp
 ## Beispielsätze
 
 *Gender-i*:
-- Die kleinen *Schülis* gehen mit *dis Lehri* in ihr Klassenzimmer. 
-- *Ei Schüli* gibt *is* Turnbeutel *dis Lehri*.
+- Die kleinen *Schülis* gehen mit *ihris Lehris* in ihr Klassenzimmer. 
+- *Ei Schüli* gibt *is* Turnbeutel *dis Lehris*.
 
 *Genderstern*:
-- Die kleinen Schüler\*innen gehen mit der\*dem Lehrer\*in in ihr Klassenzimmer. 
+- Die kleinen Schüler\*innen gehen mit ihrer\*ihrem Lehrer\*in in ihr Klassenzimmer. 
 - Ein*e Schüler\*in gibt seinen/ihren Turnbeutel dem/der Lehrer*in.
 
 *Generisches Maskulinum*:
