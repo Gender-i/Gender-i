@@ -8,7 +8,7 @@ Offizielle Website: [gender-i.de](https://gender-i.de)
 
 ## Anleitung zum Mitgestalten
 
-Gender-i ist offen für Verbesserungen, Dialog, Kritik und Hilfe. 
+Gender-i ist offen für Verbesserungen, Dialog, Kritik und Hilfe.
 
 Mit Hilfe von Issues können Probleme angemerkt und anschließend diskutiert werden. Bei Verbesserungen der Seite können Pull Requests erstellt werden.
 
@@ -34,8 +34,8 @@ Voraussetzung ist eine Ruby-Installation und Kenntnisse in der Kommandozeile eur
 
 #### Webseite aufrufen
 
-Im Browser auf `http://127.0.0.1:4000` gehen. Die Seite wird automatisch neugeladen, sobald ihr Änderungen in den Datein macht.
+Im Browser auf `http://127.0.0.1:4000` gehen. Die Seite wird automatisch neu geladen, sobald ihr Änderungen in den Dateien macht.
 
 ## Vereinbarung über Verhaltenskodex für Mitwirkende
 
-Siehe [gender-i.de/contribution](https://gender-i.de/mitmachen).
+Siehe [gender-i.de/mitmachen](https://gender-i.de/mitmachen).

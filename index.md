@@ -14,9 +14,9 @@ Das **Gender-i**, mit der Endung **-i** und dem Personalpronomen **i**, ist ein 
 
 Dieses neue Genus (*grammatikalisches „Geschlecht“*) mit dem Namen **Gender-i** hat, anders als das Maskulinum und das Femininum, keinen Bezug zu einem der beiden traditionellen Geschlechter (Sexus) und erweckt, im Gegensatz zum Neutrum, nicht den Eindruck, dass über eine geschlechterlose Sache gesprochen wird. Dies ist Teil der [Motivation](motivation#warum-ein-neues-system) des Projekts Gender-i.
 
-| Gender-i                  | generisches maskulin               | Genderstern                           |
+| Gender-i                  | generisches Maskulinum             | Genderstern                           |
 |:--------------------------|:-----------------------------------|:--------------------------------------|
-| **Die Lehris**            | Die Lehrer                         | Die Lehrer\*innen                     | 
+| **Die Lehris**            | Die Lehrer                         | Die Lehrer\*innen                     |
 | **Ei Schüli**             | Ein Schüler                        | Ein\\*e Schüler\*in                   |
 | **I präsentiert is Idee** | Er/sie präsentiert seine/ihre Idee | Er\\*sie präsentiert seine\*ihre Idee |
 
@@ -33,21 +33,21 @@ Das Gender-i wird bei Artikelwörtern und Pronomen durch die Singular-Endungen *
 
 ## Bildung
 
-Bei geschlechterbehafteten Nomen mit der Endung **-er** (*maskulin*) und **-erin** (*feminin*) im Singular (*z.B. Schüler*) wird die Gender-i Form mit Hilfe der Endung **-i** (`[i]`{:.ipa}) gebildet. Die Endung **-i** wird, wie auch die Endungen für die maskuline, feminine und neutrale Form, an den Wortstamm angefügt. Im Plural wird die Endung **-is** (`[is]`{:.ipa}) benutzt. 
+Bei geschlechterbehafteten Nomen mit der Endung **-er** (*maskulin*) und **-erin** (*feminin*) im Singular (*z. B. Schüler*) wird die Gender-i Form mit Hilfe der Endung **-i** (`[i]`{:.ipa}) gebildet. Die Endung **-i** wird, wie auch die Endungen für die maskuline, feminine und neutrale Form, an den Wortstamm angefügt. Im Plural wird die Endung **-is** (`[is]`{:.ipa}) benutzt.
 
 *Beispiel: Schüler → Schüli (singular), Schülis (plural)*
 
-Bei anderen Nomen, bei denen die feminine Form im Singular durch das Hinzufügen der Endung **-in** gebildet wird (*z.B. Praktikant*), wird beim Gender-i die Endung **-i** (`[i]`{:.ipa}) an die maskuline Form gehängt. Im Plural wird auch hier die Endung **-is** (`[is]`{:.ipa}) benutzt. 
+Bei anderen Nomen, bei denen die feminine Form im Singular durch das Hinzufügen der Endung **-in** gebildet wird (*z. B. Praktikant*), wird beim Gender-i die Endung **-i** (`[i]`{:.ipa}) an die maskuline Form gehängt. Im Plural wird auch hier die Endung **-is** (`[is]`{:.ipa}) benutzt.
 
 *Beispiel: Praktikant → Praktikanti (singular), Praktikantis (plural)*
 
-Bei Nomen, die mit der Endung **-e** in der Grundform feminin sind (*z.B. Witwe*) und deren männliche Variante mit der Endung **-er** gebildet wird, wird für das Gender-i die Endungen **-i** (`[i]`{:.ipa}) (singular) und **-is** (`[is]`{:.ipa}) (plural) benutzt.
+Bei Nomen, die mit der Endung **-e** in der Grundform feminin sind (*z. B. Witwe*) und deren männliche Variante mit der Endung **-er** gebildet wird, wird für das Gender-i die Endungen **-i** (`[i]`{:.ipa}) (singular) und **-is** (`[is]`{:.ipa}) (plural) benutzt.
 
 *Beispiel: Witwe → Witwi (singular), Witwis (plural)*
 
 ### Aussprache der Endungen
 
-Die Aussprache der Endung **-i** (`[i]`{:.ipa}) erfolgt analog zur Aussprache der Endung von **Uni**. Dies steht im Gegensatz zu dem betonten langen `[iː]`{:.ipa} wie *nie* oder *Akademie*. 
+Die Aussprache der Endung **-i** (`[i]`{:.ipa}) erfolgt analog zur Aussprache der Endung von **Uni**. Dies steht im Gegensatz zu dem betonten langen `[iː]`{:.ipa} wie *nie* oder *Akademie*.
 
 Die Aussprache der Endung **-is** (`[is]`{:.ipa}) erfolgt analog zur Aussprache der Endung von **Unis** und **Trabbis**. Dies steht im Gegensatz zu dem kurzen `[ɪs]`{:.ipa} in *Kürbis* oder *Canabis* und dem betonten langen `[iːs]`{:.ipa} in *Türkis*, *Genies* oder *Paris*.
 
@@ -67,52 +67,52 @@ Die Artikel des Gender-i sind **ei**[^2] (`[aɪ̯]`) (unbestimmt) und **dis** (`
 
 [^2]: Noch nicht 100%ig fest. Siehe [Optionen](optionen#unbestimmter-artikel)
 
-Der Artikel bleibt in allen grammatikalischen Fällen gleich. Im Nominativ und im Akkusativ werden die Endungen **-i** `[i]`{:.ipa} und im Genitiv und Dativ die Endung **-is** `[iːs]`{:.ipa}. Dies sorgt für einfache Regeln, da auch in anderen Geschlechtern Doppelbelegungen benutzt werden. Damit fallen komplizierte Regeln weg, was das Erlenen des *Gender-i* einfacher gestaltet.
+Der Artikel bleibt in allen grammatikalischen Fällen gleich. Im Nominativ und im Akkusativ werden die Endungen **-i** `[i]`{:.ipa} und im Genitiv und Dativ die Endung **-is** `[iːs]`{:.ipa}. Dies sorgt für einfache Regeln, da auch in anderen Geschlechtern Doppelbelegungen benutzt werden. Damit fallen komplizierte Regeln weg, was das Erlernen des *Gender-i* einfacher gestaltet.
 
-|               | maskulin          | feminin            | Gender-i        |
-|:--------------|:------------------|:-------------------|:----------------|
-| **Nominativ** | Der Schüler       | Die Schülerin      | Dis Schüli      |
-| ^^            | ^^ Ein Schüler    | ^^ Eine Schülerin  | ^^ Ei Schüli    |
-| **Genitiv**   | Des Schülers      | Der Schülerin      | Disis Schülis     |
-| ^^            | ^^ Eines Schülers | ^^ Einer Schülerin | ^^ Eis Schülis   |
-| **Dativ**     | Dem Schüler       | Der Schülerin      | Disis Schülis     |
-| ^^            | ^^ Einem Schüler  | ^^ Einer Schülerin | ^^ Eis Schülis   |
-| **Akkusativ** | Den Schüler       | Die Schülerin      | Dis Schüli      |
-| ^^            | ^^ Einen Schüler  | ^^ Eine Schülerin  | ^^ Ei Schüli    |
+|               | maskulin          | feminin            | Gender-i       |
+|:--------------|:------------------|:-------------------|:---------------|
+| **Nominativ** | Der Schüler       | Die Schülerin      | Dis Schüli     |
+| ^^            | ^^ Ein Schüler    | ^^ Eine Schülerin  | ^^ Ei Schüli   |
+| **Genitiv**   | Des Schülers      | Der Schülerin      | Disis Schülis  |
+| ^^            | ^^ Eines Schülers | ^^ Einer Schülerin | ^^ Eis Schülis |
+| **Dativ**     | Dem Schüler       | Der Schülerin      | Disis Schülis  |
+| ^^            | ^^ Einem Schüler  | ^^ Einer Schülerin | ^^ Eis Schülis |
+| **Akkusativ** | Den Schüler       | Die Schülerin      | Dis Schüli     |
+| ^^            | ^^ Einen Schüler  | ^^ Eine Schülerin  | ^^ Ei Schüli   |
 
-Der Plural wird wie bei allen anderen Geschlechtern mit den Artikel **die/der/den/die** gebildet. *Die Schülis* lösen die Aufgaben *der Lehris* und geben diese *den Mitarbeitis*.
+Der Plural wird wie bei allen anderen Geschlechtern mit den Artikeln **die/der/den/die** gebildet. *Die Schülis* lösen die Aufgaben *der Lehris* und geben diese *den Mitarbeitis*.
 
 ## Pronomen
 
 ### Personalpronomen
 
 |               | \1. Person | \2. Person | \3. Person (Gender-i) |
-|:--------------|:-----------|:-----------|:-----------|
-| **Nominativ** | ich        | du         | i          |
-| **Genitiv**   | meiner     | deiner     | is         |
-| **Dativ**     | mir        | dir        | is         |
-| **Akkusativ** | mich       | dich       | i          |
+|:--------------|:-----------|:-----------|:----------------------|
+| **Nominativ** | ich        | du         | i                     |
+| **Genitiv**   | meiner     | deiner     | is                    |
+| **Dativ**     | mir        | dir        | is                    |
+| **Akkusativ** | mich       | dich       | i                     |
 
-|               | \3. Person                          ||||
-| ^^            | Gender-i | maskulin   | feminin | neutrum |
+|               | \3. Person                             ||||
+| ^^            | Gender-i | maskulin   | feminin | Neutrum |
 |:--------------|:---------|:-----------|:--------|:--------|
 | **Nominativ** | i        | er         | sie     | es      |
 | **Genitiv**   | is       | seiner     | ihrer   | seiner  |
 | **Dativ**     | is       | ihm        | ihr     | sein    |
 | **Akkusativ** | i        | ihn        | sie     | es      |
 
-### Possesivpronomen
+### Possessivpronomen
 
-Mein Schüler, deine Kleidung, sein Stift, ihre Mappe, euer Zimmer – Possesivpronomen müssen ebenfalls dekliniert werden, sind aber genauso aufgebaut, wie die Personalpronomen.
+Mein Schüler, deine Kleidung, sein Stift, ihre Mappe, euer Zimmer – Possessivpronomen müssen ebenfalls dekliniert werden, sind aber genauso aufgebaut, wie die Personalpronomen.
 
-| Fall          | i               |
-|:--------------|:----------------|
-| **Nominativ** | is Kleidung     |
-| **Genitiv**   | isis Kleidung   |
-| **Dativ**     | isis Kleidung   |
-| **Akkusativ** | is Kleidung     |
+| Fall          | i             |
+|:--------------|:--------------|
+| **Nominativ** | is Kleidung   |
+| **Genitiv**   | isis Kleidung |
+| **Dativ**     | isis Kleidung |
+| **Akkusativ** | is Kleidung   |
 
-Wird die Possesivform mit einem genderneutralen Objekt verwendet, so wird wie bisher dekliniert. Beispiel:
+Wird die Possessivform mit einem genderneutralen Objekt verwendet, so wird wie bisher dekliniert. Beispiel:
 *Mein Schüli, deine Lehris, sein/ihr/sein Mitarbeiti*, etc.
 
 ## Adjektive
@@ -128,10 +128,10 @@ Das Gender-i bildet Adjektive mit der gewohnten Endung **-i** (`[i]`{:.ipa}) (No
 | **Dativ**     | dem guten Lehrer  | der guten Lehrerin | Disis gutis Lehris |
 | **Akkusativ** | den guten Lehrer  | die gute Lehrerin  | Dis guti Lehri     |
 
-### Unbestimmter Artikel
+### Mit unbestimmtem Artikel
 
-|               | maskulin            | feminin              | Gender-i           |
-|:--------------|:--------------------|:---------------------|:-------------------|
+|               | maskulin            | feminin              | Gender-i         |
+|:--------------|:--------------------|:---------------------|:-----------------|
 | **Nominativ** | ein guter Lehrer    | eine gute Lehrerin   | ei guti Lehri    |
 | **Genitiv**   | eines guten Lehrers | einer guten Lehrerin | eis gutis Lehris |
 | **Dativ**     | einem guten Lehrer  | einer guten Lehrerin | eis gutis Lehris |
@@ -140,15 +140,15 @@ Das Gender-i bildet Adjektive mit der gewohnten Endung **-i** (`[i]`{:.ipa}) (No
 ## Beispielsätze
 
 *Gender-i*:
-- Die kleinen *Schülis* gehen mit *ihris Lehris* in ihr Klassenzimmer. 
+- Die kleinen *Schülis* gehen mit *ihris Lehris* in ihr Klassenzimmer.
 - *Ei Schüli* gibt *is* Turnbeutel *dis Lehris*.
 
 *Genderstern*:
-- Die kleinen Schüler\*innen gehen mit ihrer\*ihrem Lehrer\*in in ihr Klassenzimmer. 
+- Die kleinen Schüler\*innen gehen mit ihrer\*ihrem Lehrer\*in in ihr Klassenzimmer.
 - Ein*e Schüler\*in gibt seinen/ihren Turnbeutel dem/der Lehrer*in.
 
 *Generisches Maskulinum*:
-- Die kleinen Schüler gehen mit dem Lehrer in ihr Klassenzimmer. 
+- Die kleinen Schüler gehen mit dem Lehrer in ihr Klassenzimmer.
 - Ein Schüler gibt seinen Turnbeutel dem Lehrer.
 
 ### Beispieltext

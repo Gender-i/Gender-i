@@ -43,11 +43,11 @@ Beispiele für nicht akzeptables Verhalten beinhalten:
 * Beleidigende / abwertende Kommentare, persönliche oder politische Angriffe, Nutzung des Internets für unbilliges Verhalten
 * Öffentliche oder private Belästigungen
 * Das Veröffentlichen von privaten Informationen Anderer, wie zum Beispiel physische oder elektronische Adressen, ohne deren ausdrückliche Erlaubnis
-* Anderes Verhalten, welches in einem professionellen Umfeld begründet als unangemessen betrachtet werden kann 
+* Anderes Verhalten, welches in einem professionellen Umfeld begründet als unangemessen betrachtet werden kann
 
 ### Unsere Verantwortlichkeiten
 
-Die Projektverantwortlichen sind verantwortlich dafür, die Standards für ein akzeptables Benehmen klarzustellen und es wird von ihnen erwartet, dass sie als Reaktion auf jegliches inakzeptables Verhalten passende und faire berichtigende Maßnahmen ergreifen.
+Die Projektverantwortlichen sind verantwortlich dafür, die Standards für ein akzeptables Benehmen klarzustellen und es wird von ihnen erwartet, dass sie als Reaktion auf jegliches inakzeptable Verhalten passende und faire berichtigende Maßnahmen ergreifen.
 
 Die Projektverantwortlichen haben das Recht und die Verantwortung, Kommentare, Commits, Code, Wiki-Bearbeitungen, Support-Tickets und andere Beiträge, die nicht mit diesem Verhaltenskodex vereinbar sind, zu entfernen, zu bearbeiten oder abzulehnen, und jene Mitwirkende für Verhaltensweisen, die sie für unangemessen, bedrohend, beleidigend oder verletzend halten, zeitweilig oder dauerhaft zu sperren.
 

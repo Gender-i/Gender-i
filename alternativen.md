@@ -7,13 +7,13 @@ nav_order: 5
 
 Es gibt bereits viele Meinungen, wie gendergerechte Sprache auszusehen hat – über Doppelnennungen, den Genderstern und neue Sprachkonstrukte. Doch die hier aufgezählten Alternativen zum *Gender-i* haben alle ihre eigenen Probleme, die mit dem *Gender-i* gelöst werden sollen. Diese Liste hat nicht den Anspruch vollständig zu sein, versucht aber einige populäre Alternativen und ihre Probleme aufzuzeigen.
 
-## Gender-Doppelpunkt und Genderstern(chen)
+## Genderstern(chen) und Gender-Doppelpunkt
 
-Der Genderstern und der Gender-Doppelpunkt sind die populärsten Methoden, Texte zu gendern. 
+Der Genderstern und der Gender-Doppelpunkt sind die populärsten Methoden, um Texte zu gendern.
 
 ### Beispiele
 > Lehrer\*innen und Ärzt\*innen (Genderstern)\
-> Lehrer:innen und Ärzt:innen (Genderdoppelpunkt)
+> Lehrer:innen und Ärzt:innen (Gender-Doppelpunkt)
 
 ### Kritik
 
@@ -40,20 +40,20 @@ Quellen: [Tagesspiegel (2014)](https://www.tagesspiegel.de/gesellschaft/panorama
 
 ## Entgendern nach Phettberg
 
-Phettberg benutzt die Endung -y und -ys. Also "das Lesy" und "die Schülys" und ist damit sehr ähnlich zum Gender-i. Diese Form hat in 2021 viel Aufmerksamkeit bekommen, da sie vom Sprachdidaktiker [Thomas Kronschläger](https://www.tu-braunschweig.de/germanistik/abt/did/mitarb/kronschlaeger) als Vorbild für ein Modell geschlechtergerechter Sprache verwendet wurde.
+Phettberg benutzt die Endung `-y` und `-ys`. Also "das Lesy" und "die Schülys" und ist damit sehr ähnlich zum Gender-i. Diese Form hat in 2021 viel Aufmerksamkeit bekommen, da sie vom Sprachdidaktiker [Thomas Kronschläger](https://www.tu-braunschweig.de/germanistik/abt/did/mitarb/kronschlaeger) als Vorbild für ein Modell geschlechtergerechter Sprache verwendet wurde.
 
 ### Kritik
 
 - Verwendet den Artikel des Neutrums: `das Lehry`
 - Kein eigenes Personalpronomen, stattdessen Neutrum: `das Lehry und seine Klasse`
 
-Quellen [Spiegel (2021)](https://www.spiegel.de/politik/deutschland/gendergerechte-sprache-leichter-gendern-mit-phettberg-kolumne-a-ae5da027-0002-0001-0000-000176418810), [Deutschlandfunk Kultur (2021)](https://www.deutschlandfunkkultur.de/entgendern-nach-hermes-phettberg-bis-das-arzty-kommt.1013.de.html?dram:article_id=492876)
+Quellen: [Spiegel (2021)](https://www.spiegel.de/politik/deutschland/gendergerechte-sprache-leichter-gendern-mit-phettberg-kolumne-a-ae5da027-0002-0001-0000-000176418810), [Deutschlandfunk Kultur (2021)](https://www.deutschlandfunkkultur.de/entgendern-nach-hermes-phettberg-bis-das-arzty-kommt.1013.de.html?dram:article_id=492876)
 
 ## Del-On-Sel-System
 
 Das Del-On-Sel-System wurde im Zuge der Recherchen zum Gender-i gefunden. Das System ist durchdacht und die Argumentation und der Aufbau dessen entspricht im Kern dem Gender-i. Durch diese Ähnlichkeit konnten einige Überlegungen kopiert und andere weitergedacht werden.
 
-[geschlechtsneutral.net](https://geschlechtsneutral.net/deklinationstabellen-des-del-on-sel-systems/)
+Quellen: [geschlechtsneutral.net](https://geschlechtsneutral.net/deklinationstabellen-des-del-on-sel-systems/)
 
 ### Kritik
 

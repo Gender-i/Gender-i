@@ -9,10 +9,10 @@ Das Projekt Gender-i ist ein Vorstoß zur gendergerechten deutschen Sprache. Ein
 
 Aus diesem Grund hat sich das Gender-i-Projekt einen strikten Rahmen gegeben. Dies ermöglicht Weiterentwicklungen über den Rahmen hinaus an anderer Stelle zu diskutieren und damit einen Stillstand zu umgehen, der durch zu viele Ideen, Strömungen, berechtigte Kritik an einzelnen sprachlichen Begebenheiten entsteht.
 
-Der Rahmen des Gender-i-Projektes umfasst
-- eine Definition eines neuen sprachlichen Genus, das es ermöglicht über geschlechterbehaftete Lebewesen zu kommunizieren
-- eine zwangsweise unvollständige Liste von Ausnahmen und Spezialfällen
-- ein Nachschlagewerk für das Gendern nach den Regeln des Gender-i
+Der Rahmen des Gender-i-Projektes umfasst:
+- Eine Definition eines neuen sprachlichen Genus, das es ermöglicht, über geschlechterbehaftete Lebewesen zu kommunizieren
+- Eine zwangsweise unvollständige Liste von Ausnahmen und Spezialfällen
+- Ein Nachschlagewerk für das Gendern nach den Regeln des Gender-i
 
 Dabei wird ausdrücklich, jedoch nicht ausschließlich, auf folgende Themen verzichtet:
 - Definition eines neuen Nomens für Personen neben *Mann, Frau, Schwester, Bruder, …*
