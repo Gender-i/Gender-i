@@ -47,7 +47,7 @@ Beispiele für nicht akzeptables Verhalten beinhalten:
 
 ### Unsere Verantwortlichkeiten
 
-Die Projektverantwortlichen sind verantwortlich dafür, die Standards für ein akzeptables Benehmen klarzustellen und es wird von ihnen erwartet, dass sie als Reaktion auf jegliches inakzeptable Verhalten passende und faire berichtigende Maßnahmen ergreifen.
+Die Projektverantwortlichen sind verantwortlich dafür, die Standards für ein akzeptables Benehmen klarzustellen und es wird von ihnen erwartet, dass sie als Reaktion auf jegliches inakzeptables Verhalten passende und faire berichtigende Maßnahmen ergreifen.
 
 Die Projektverantwortlichen haben das Recht und die Verantwortung, Kommentare, Commits, Code, Wiki-Bearbeitungen, Support-Tickets und andere Beiträge, die nicht mit diesem Verhaltenskodex vereinbar sind, zu entfernen, zu bearbeiten oder abzulehnen, und jene Mitwirkende für Verhaltensweisen, die sie für unangemessen, bedrohend, beleidigend oder verletzend halten, zeitweilig oder dauerhaft zu sperren.
 

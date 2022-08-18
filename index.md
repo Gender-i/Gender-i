@@ -93,13 +93,13 @@ Der Plural wird wie bei allen anderen Geschlechtern mit den Artikeln **die/der/d
 | **Dativ**     | mir        | dir        | is                    |
 | **Akkusativ** | mich       | dich       | i                     |
 
-|               | \3. Person                             ||||
-| ^^            | Gender-i | maskulin   | feminin | Neutrum |
-|:--------------|:---------|:-----------|:--------|:--------|
-| **Nominativ** | i        | er         | sie     | es      |
-| **Genitiv**   | is       | seiner     | ihrer   | seiner  |
-| **Dativ**     | is       | ihm        | ihr     | sein    |
-| **Akkusativ** | i        | ihn        | sie     | es      |
+|               | \3. Person                           ||||
+| ^^            | Gender-i | maskulin | feminin | neutral |
+|:--------------|:---------|:---------|:--------|:--------|
+| **Nominativ** | i        | er       | sie     | es      |
+| **Genitiv**   | is       | seiner   | ihrer   | seiner  |
+| **Dativ**     | is       | ihm      | ihr     | sein    |
+| **Akkusativ** | i        | ihn      | sie     | es      |
 
 ### Possessivpronomen
 
