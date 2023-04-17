@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Andere Sprachsysteme
-nav_order: 5
+nav_order: 6
 ---
 # Alternativsysteme zum Gender-i
 

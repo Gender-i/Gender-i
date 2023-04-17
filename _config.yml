@@ -1,6 +1,5 @@
 theme: "just-the-docs"
 title: Gender-i
-url: "https://gender-i.de"
 logo: "/assets/images/Gender-i-128.png"
 exclude: 
   - Material
