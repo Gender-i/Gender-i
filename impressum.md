@@ -9,8 +9,8 @@ nav_exclude: true
 ## Angaben gemäß § 5 TMG:
 
 Andreas Ganske\
-Wegedornstr. 32\
-12524 Berlin\
+Alexandrinenstr. 4\
+10969 Berlin\
 info \[at\] gender-i \[.\] de
 
 ## Haftung für Inhalte
