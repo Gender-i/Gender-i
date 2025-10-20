@@ -9,8 +9,8 @@ nav_exclude: true
 ## Angaben gemäß § 5 TMG:
 
 Andreas Ganske\
-Alexandrinenstr. 4\
-10969 Berlin\
+Bessemerstraße 51 - 1.OG\
+12103 Berlin\
 info \[at\] gender-i \[.\] de
 
 ## Haftung für Inhalte
